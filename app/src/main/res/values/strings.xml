@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">LoadLocation</string>
+
+    //dialog strings
+    <string name="dail_messsage">It is essential to allow access to permission to get the location details.\n Do you want to allow \?</string>
+</resources>
